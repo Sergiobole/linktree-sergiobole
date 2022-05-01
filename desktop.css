@@ -1,0 +1,43 @@
+/*  body  */
+
+body{
+
+text-align: center;
+background-image: url('https://facol.br/wp-content/uploads/2021/07/gestao-de-seguranca-publica-e-privada-scaled-1022x608.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+
+
+}
+
+/*  infos user */
+/* principal*/
+.usuarios{
+
+}
+.fotoperfil{}
+.nome{}
+.bio{}
+
+/* utility link */
+
+.contato{} /* principal*/
+.numero{}
+.email{}
+.mensagem{}
+
+
+/* social media */
+
+.redesocial{} /* principal*/
+.instragram{}
+.face{}
+.twitter{}
+.twitchtc{}
+.discord{}
+.youtube{}
+
+/* autority directly */
+
+footer{}
